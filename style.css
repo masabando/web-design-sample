@@ -45,7 +45,7 @@ header > div > a.current-page {
 
 #front-image-div {
   aspect-ratio: 1 / 1;
-  background-image: url(/web-design-sample/img/kutc_fantasy_small.jpg);
+  background-image: url(./img/kutc_fantasy_small.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
